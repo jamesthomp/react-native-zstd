@@ -19,6 +19,7 @@
     "externals/zstd/lib/common",
     "externals/zstd/lib/compress",
     "externals/zstd/lib/decompress",
+    "externals/zstd/build",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
