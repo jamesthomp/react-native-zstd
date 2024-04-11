@@ -1,5 +1,12 @@
 
 
+## [0.6.1](https://github.com/Andarius/react-native-zstd/compare/v0.6.0...v0.6.1) (2024-04-02)
+
+
+### Features
+
+* support RN 0.73
+
 # [0.6.0](https://github.com/Andarius/react-native-zstd/compare/v0.5.0...v0.6.0) (2023-02-08)
 
 
