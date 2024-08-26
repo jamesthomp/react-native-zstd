@@ -1,5 +1,13 @@
 
 
+## [0.7.1](https://github.com/Andarius/react-native-zstd/compare/v1.0.1...v0.7.1) (2024-08-26)
+
+
+### Bug Fixes
+
+* android build ([65fa585](https://github.com/Andarius/react-native-zstd/commit/65fa58534bd371f6fc9d7e3423933a19c652fcd3))
+* publish ([91e3510](https://github.com/Andarius/react-native-zstd/commit/91e3510f0295a2b2213431f516a904f7d8a264f4))
+
 ## [1.0.1](https://github.com/Andarius/react-native-zstd/compare/v1.0.0...v1.0.1) (2024-06-19)
 
 # [1.0.0](https://github.com/Andarius/react-native-zstd/compare/v0.6.1...v1.0.0) (2024-06-18)
