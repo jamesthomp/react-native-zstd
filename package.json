@@ -1,6 +1,6 @@
 {
-  "name": "react-native-zstd",
-  "version": "1.1.0",
+  "name": "@jamesthomp/react-native-zstd",
+  "version": "0.7.1",
   "description": "ZSTD for React Native",
   "source": "./src/index.tsx",
   "main": "./lib/module/index.js",
@@ -25,6 +25,7 @@
     "externals/zstd/lib/common",
     "externals/zstd/lib/compress",
     "externals/zstd/lib/decompress",
+    "externals/zstd/build",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
