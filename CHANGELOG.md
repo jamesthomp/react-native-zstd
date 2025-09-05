@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.7.2 (2025-09-05)</small>
+
+* fix: android ([8e982aa](https://github.com/Andarius/react-native-zstd/commit/8e982aa))
+
 ## 1.1.0 (2025-04-18)
 
 * chore: adding eslint config ([4efb911](https://github.com/Andarius/react-native-zstd/commit/4efb911))
