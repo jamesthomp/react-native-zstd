@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.2](https://github.com/Andarius/react-native-zstd/compare/v0.8.1...v0.8.2) (2025-09-06)
+
+
+### Bug Fixes
+
+* ios ([1841d32](https://github.com/Andarius/react-native-zstd/commit/1841d32bdc18d1e5f2c6f915dfe3ef44f54151db))
+
 ## [0.8.1](https://github.com/Andarius/react-native-zstd/compare/v0.8.0...v0.8.1) (2025-09-06)
 
 
