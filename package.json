@@ -1,6 +1,6 @@
 {
   "name": "@jamesthomp/react-native-zstd",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "ZSTD for React Native",
   "source": "./src/index.tsx",
   "main": "./lib/module/index.js",
