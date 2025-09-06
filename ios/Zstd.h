@@ -2,7 +2,7 @@
 #import "react-native-zstd.h"
 #endif
 
-#import <RNZstdSpec.h>
+#import "RNZstdSpec.h"
 
 @interface Zstd : NSObject <NativeZstdSpec>
 
